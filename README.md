@@ -34,6 +34,12 @@ Since the project had login activity, used this account to access the system:-
 Read and edit `config/app.php` and setup the 'Datasources' and any other
 configuration relevant for your application.
 
-I already set to default, but you can make change :)
+I already set to default, but you can make changes :)
+
+##Changelogs
+* v0.1
+    * ADD- semester conversion from current sem to present sem
+    
+
 
 
