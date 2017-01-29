@@ -5,6 +5,10 @@ Is stands for Computerized Evaluation Degree in Nursing CLinical training manage
 
 ## Installation
 
+The system need two sofware to run full functionality:-
+*   Composer
+*   Xampp
+
 Download and install composer from [here](https://getcomposer.org/download/). If you looking whether composer was installed or not, check using command prompt.
 
     On command prompt, type 'composer' without quotes.
