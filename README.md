@@ -5,18 +5,31 @@ Is stands for Computerized Evaluation Degree in Nursing CLinical training manage
 
 ## Installation
 
-1. Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
-2. Run `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
+Download and install composer from [here](https://getcomposer.org/download/). If you looking whether composer was installed or not, check using command prompt.
 
-If Composer is installed globally, run
-```bash
-composer create-project --prefer-dist cakephp/app [app_name]
-```
+    On command prompt, type 'composer' without quotes.
+    
+Download clone and paste the project folder to any directory.
+The project required sql to run, so get sql file [here](https://drive.google.com/file/d/0By2WtIRJGnktTnVfZ3NBUTlMNkU/view?usp=sharing). Import sql from xampp/phpmyadmin.
 
-You should now be able to visit the path to where you installed the app and see
-the setup traffic lights.
+Go back to command prompt and type:-
+
+    cd c:\YourDirectory\evade\bin\cake server
+
+wait for a project to be load, then open any browser.
+In the url, type localhost:8765/users/login
+Since the project had login activity, used this account to access the system:-
+
+    email: suriani@gmail.com
+    password: pass
+
+
 
 ## Configuration
 
 Read and edit `config/app.php` and setup the 'Datasources' and any other
 configuration relevant for your application.
+
+I already set to default, but you can make change :)
+
+
