@@ -10,7 +10,7 @@ Download and install composer from [here](https://getcomposer.org/download/). If
     On command prompt, type 'composer' without quotes.
     
 Download clone and paste the project folder to any directory.
-The project required sql to run, so get sql file [here](https://drive.google.com/file/d/0By2WtIRJGnktTnVfZ3NBUTlMNkU/view?usp=sharing). Import sql from xampp/phpmyadmin.
+The project required sql to run, so get sql file [here](https://drive.google.com/file/d/0By2WtIRJGnktTnVfZ3NBUTlMNkU/view?usp=sharing). Import sql to xampp/phpmyadmin.
 
 Go back to command prompt and type:-
 
